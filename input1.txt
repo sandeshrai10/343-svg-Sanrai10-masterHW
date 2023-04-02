@@ -1,0 +1,19 @@
+circle 100 100 50 red
+circle 200 100 25 green
+circle 300 100 10 blue
+circle 75 75 50 black
+circle 375 250 30 orange
+rectangle 250 600 140 60 silver
+rectangle 230 620 30 40 silver
+circle 285 660 20 black
+circle 355 660 20 black
+triangle 500 400 650 400 575 350 purple
+rectangle 524 400 100 70 orange
+rectangle 563 436 22 34 red
+triangle 60 400 180 400 120  500 gray
+triangle 60 400 180 400 120 300 pink 
+ellipse 550 100 70 20 aqua
+ellipse 650 120 70 15 aqua 
+ellipse 700 80 65 17 aqua 
+ellipse 600 75 25 8 aqua 
+ellipse 550 65 22 6 aqua 
